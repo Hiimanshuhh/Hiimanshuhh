@@ -46,3 +46,7 @@
 <div id="header" align="center">
   <img style="background-color:orange;" src="https://komarev.com/ghpvc/?username=hiimanshuhh&label=Profile%20views&color=0e75b6&style=flat" alt="hiimanshuhh" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
