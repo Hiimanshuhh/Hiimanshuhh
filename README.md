@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A 3rd year passionate Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimanshuhh&label=Profile%20views&color=0e75b6&style=flat" alt="hiimanshuhh" /> </p>
+
 
 
 - 🔭 I’m currently working on **Pandas**
