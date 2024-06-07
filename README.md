@@ -45,9 +45,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshuhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-<p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=hiimanshuhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
-</p>
 
 <div id="header" align="center">
   <img style="background-color:orange;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="hiimanshuhh" alt=""/>
