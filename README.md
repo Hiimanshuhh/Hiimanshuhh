@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Pandas**
+- 🔭 I’m currently working on **AI & ML**
 
 - 🌱 I’m currently learning **AI Engineering**
 
