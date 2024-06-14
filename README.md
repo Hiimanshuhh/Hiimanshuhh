@@ -1,4 +1,4 @@
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=hiimanshuhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
@@ -61,17 +61,19 @@
 |----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | 
 
+---
 
-# 📊 GitHub Stats:
+  
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=hiimanshuhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=hiimanshuhh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hiimanshuhh&theme=dark&hide_border=true">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshuhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hiimanshuhh&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshuhh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
@@ -82,6 +84,7 @@
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
 
 
 
