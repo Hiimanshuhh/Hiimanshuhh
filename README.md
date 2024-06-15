@@ -1,27 +1,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hiimanshuhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A 3rd year passionate Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimanshuhh&label=Profile%20views&color=0e75b6&style=flat" alt="hiimanshuhh" /> </p>
+### About Me:    
+I'm presently working for a bachelor's degree in Computer Science engineering at Chandigarh University. I have participated in a variety of extracurricular activities, such as Hackathons, debates, quizzes, and coding competitions. Throughout my bachelor's degree, I worked on a number of academic projects and internships that encompassed many facets of the computer science profession.
 
-
-
-- 🔭 I’m currently working on **AI & ML**
-
-- 🌱 I’m currently learning **AI Engineering**
-
-- 👯 I’m looking to collaborate on **Front End Development**
-
-- 👨‍💻 All of my projects are available at [https://hiimanshuhh.github.io/Portfolio/](https://hiimanshuhh.github.io/Portfolio/)
-
-- 💬 Ask me about **Javascript, React and Python**
-
-- 📫 How to reach me **joshihimanshu2213@gmail.com**
-
-- 📄 Know about my experiences [https://peach-carmela-79.tiiny.site/](https://peach-carmela-79.tiiny.site/)
-
-- ⚡ Fun fact **I am machine which turns coffee into code**
+Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development , & Machine Learning (Python).
+      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
