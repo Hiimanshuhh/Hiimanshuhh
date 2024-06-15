@@ -2,10 +2,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=hiimanshuhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### About Me:    
-I'm presently working for a bachelor's degree in Computer Science engineering at Chandigarh University. I have participated in a variety of extracurricular activities, such as Hackathons, debates, quizzes, and coding competitions. Throughout my bachelor's degree, I worked on a number of academic projects and internships that encompassed many facets of the computer science profession.
+I'm now pursuing a bachelor's degree in computer science engineering at Chandigarh University. I've taken part in several extracurricular events, including coding challenges, debates, quizzes, and hackathons. I worked on several academic projects and completed several internships that covered a wide range of computer science-related topics during my bachelor's degree.
 
-Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development , & Machine Learning (Python).
-      
+I find technology fascinating, and I'm constantly amazed by the changes it brings about in the world. I have experience working with web development, machine learning (Python), and data structures and algorithms (C++). And my will to study makes up for any talents I may be lacking.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
