@@ -4,7 +4,7 @@
 ### About Me:    
 I'm now pursuing a bachelor's degree in computer science engineering at Chandigarh University. I've taken part in several extracurricular events, including coding challenges, debates, quizzes, and hackathons. I worked on several academic projects and completed several internships that covered a wide range of computer science-related topics during my bachelor's degree.
 
-I find technology fascinating, and I'm constantly amazed by the changes it brings about in the world. I have experience working with web development, machine learning (Python), and data structures and algorithms (C++). And my will to study makes up for any talents I may be lacking.
+I find technology fascinating, and I'm constantly amazed by the changes it brings about in the world. I have experience working with web development, machine learning (Python), and data structures and algorithms (C++).
 
 
 <h3 align="left">Connect with me:</h3>
