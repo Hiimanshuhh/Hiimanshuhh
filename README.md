@@ -65,6 +65,10 @@ I find technology fascinating, and I'm constantly amazed by the changes it bring
   <img style="background-color:orange;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="hiimanshuhh" alt=""/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiimanshuhh&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
