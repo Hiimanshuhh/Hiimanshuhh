@@ -20,12 +20,21 @@ I find technology fascinating, and I'm constantly amazed by the changes it bring
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  
 
+### Frameworks:
+| Tensorflow | Scikit Learn | Pytorch | React Js |
+|----------|----------|----------|----------|
+|  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="55" height="55"/> | <img src="https://blog.christianperone.com/wp-content/uploads/2023/12/torch_logo-248x300.png" title="Pytorch" alt="Pytorch" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React JS"  alt="React JS" width="55" height="55"/>|
 
-### Frameworks and Libraries:
+### Libraries:
+| Numpy | Pandas | Matplotlib | Seaborn |   
+|----------|----------|----------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="sns" alt="sns" width="55" height="55"/>| 
 
-| React JS | Tailwind | Pandas | Numpy | Matplotlib | Seaborn | 
+### Machine and Deep Learning:
+
+| Linear R | Logistic R | KNN | R Forest | NLP | NN | 
 |----------|----------|----------|----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React JS"  alt="React JS" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="sns" alt="sns" width="55" height="55"/>|
+|  <img src="https://brookewenig.com/img/LinearRegression/linear-regress2.png" title="Linear Regression"  alt="Linear Regression" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/9304/9304479.png" title="Logistic Regression"  alt="Logistic Regression" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:1270/format:webp/1*WQmkAPKje9-1Lenh-Fs0Xw.png" title="KNN" alt="KNN" width="55" height="55"/>|  <img src="https://static.vecteezy.com/system/resources/previews/039/202/122/large_2x/random-forest-algorithm-color-icon-illustration-vector.jpg" title="Random Forest" alt="Random Forest" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/9831/9831299.png" title="nlp" alt="nlp" width="55" height="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/6461/6461928.png" title="nn" alt="nn" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 
