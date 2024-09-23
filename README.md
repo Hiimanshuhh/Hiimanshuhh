@@ -46,7 +46,7 @@ I find technology fascinating, and I'm constantly amazed by the changes it bring
 
 | Git | Github |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" title="Github" alt="Github" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="Github" alt="Github" width="55" height="55"/>|
 
 ### OS:
 
