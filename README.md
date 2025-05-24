@@ -19,9 +19,9 @@ I find technology fascinating, and I'm constantly amazed by the changes it bring
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 ### Frameworks:
-| React Js | Tailwind CSS | Material UI |
-|----------|--------------|-------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React JS"  alt="React JS" width="55" height="55"/> | <img src="PUT_YOUR_TAILWIND_IMAGE_LINK_HERE" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="PUT_YOUR_MUI_IMAGE_LINK_HERE" title="Material UI" alt="Material UI" width="55" height="55"/> |
+| React Js | Tailwind CSS 
+|----------|--------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React JS"  alt="React JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="95" height="70"/>
 
 ### Libraries:
 | Numpy | Pandas | Matplotlib | Seaborn |   
