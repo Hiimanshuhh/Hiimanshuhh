@@ -1,9 +1,18 @@
 ![](https://github-profile-trophy.vercel.app/?username=hiimanshuhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### About Me:    
-I'm now pursuing a bachelor's degree in computer science engineering at Chandigarh University. I've taken part in several extracurricular events, including coding challenges, debates, quizzes, and hackathons. I worked on several academic projects and completed several internships that covered a wide range of computer science-related topics during my bachelor's degree.
 
-I find technology fascinating, and I'm constantly amazed by the changes it brings about in the world. I have experience working with web development, machine learning (Python), and data structures and algorithms (C++).
+Hi, I'm Himanshu Joshi 👋 — a passionate frontend enthusiast and Computer Science Engineering student at Chandigarh University.
+
+I enjoy building visually appealing and user-friendly web applications using JavaScript and React. I’ve worked on multiple frontend projects where I translated ideas into smooth, responsive interfaces. Alongside my academic journey, I’ve taken part in several tech events like coding competitions, hackathons, quizzes, and debates, always eager to learn and collaborate.
+
+💡Btw do you know why do programmers always mix up Christmas and Halloween?
+
+Because Oct 31 == Dec 25 😄
+
+While my core focus is on frontend development, I also have experience with machine learning in Python and data structures & algorithms using C++. I love exploring how technology continues to shape the world and strive to keep improving by building and experimenting with new tools, frameworks, and ideas.
+
+Let’s connect and create something amazing!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
